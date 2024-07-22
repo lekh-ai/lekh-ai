@@ -8,7 +8,7 @@ I'm a passionate for Gen-AI and AI-ML enthusiast. I'm always eager to learn new 
 - 🚀 I'm currently working with cutting-edge LLM and RAG technologies
 - 🧠 I'm currently learning Agentic RAG
 - 📫 How to reach me: [lekhsisodiya@gmail.com](mailto:lekhsisodiya@gmail.com)
-- 💬 Favourite Quote: “A year spent in artificial intelligence is enough to make one believe in God.” —Alan Perlis
+- 💬 Favourite Quote: ```“A year spent in artificial intelligence is enough to make one believe in God.” —Alan Perlis```
 
 ## Publication 📝
 
@@ -43,13 +43,6 @@ I'm a passionate for Gen-AI and AI-ML enthusiast. I'm always eager to learn new 
 - Mail: [lekhsisodiya@gmail.com](mailto:lekhsisodiya@gmail.com)
 
 
-## Technologies and Tools 🛠️
-
-- **Languages:** Python, JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** React, Django, Flask
-- **Tools:** Git, Docker, AWS, VS Code
-
-
 ## Hobbies and Interests 🎨
 
 - **Music:** I play the guitar and enjoy composing my own music.
@@ -57,6 +50,6 @@ I'm a passionate for Gen-AI and AI-ML enthusiast. I'm always eager to learn new 
 - **Travel:** I have a goal to visit all 7 continents.
 
 ## My Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshwanthramKL&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lekh-ai&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwanthramKL&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lekh-ai&layout=compact&theme=radical)
