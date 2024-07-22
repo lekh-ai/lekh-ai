@@ -10,16 +10,7 @@ I'm a passionate for Gen-AI and AI-ML enthusiast. I'm always eager to learn new 
 - 📫 How to reach me: [lekhsisodiya@gmail.com](mailto:lekhsisodiya@gmail.com)
 - 💬 Favourite Quote: “A year spent in artificial intelligence is enough to make one believe in God.” —Alan Perlis
 
-## Projects 🚀
-
-### [Project Name](https://github.com/soon)
-A brief description of the project. What it does, the technologies used, and any other interesting details.
-
-### [Another Project](https://github.com/soon)
-A brief description of this project. What problem does it solve? What technologies did you use?
-
-
-## Publications 📝
+## Publication 📝
 
 - [Predicting Diseases Using Chest X-Ray Medical Images-IEEE ](https://ieeexplore.ieee.org/document/10434700) -Proposing a methodology that optimizes the prediction of the chest diseases using deep learning methods that includes the inclusion of augmentation layers, dataset filtering, etc., achieving an overall model accuracy of 95.96%.
 
@@ -58,10 +49,6 @@ A brief description of this project. What problem does it solve? What technologi
 - **Frameworks:** React, Django, Flask
 - **Tools:** Git, Docker, AWS, VS Code
 
-## Community Involvement 🌱
-
-- Mentor at [Coding Bootcamp](https://codingbootcamp.com) - Helping students learn web development.
-- Organizer of [Local Tech Meetup](https://meetup.com/local-tech-meetup) - Bringing tech enthusiasts together.
 
 ## Hobbies and Interests 🎨
 
