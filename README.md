@@ -23,7 +23,6 @@ A brief description of this project. What problem does it solve? What technologi
 
 - [Predicting Diseases Using Chest X-Ray Medical Images-IEEE ](https://ieeexplore.ieee.org/document/10434700) -Proposing a methodology that optimizes the prediction of the chest diseases using deep learning methods that includes the inclusion of augmentation layers, dataset filtering, etc., achieving an overall model accuracy of 95.96%.
 
-## Skills 
 ## My Skills 💻
 
 ![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
@@ -31,6 +30,9 @@ A brief description of this project. What problem does it solve? What technologi
 ![C++](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 ![C](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
 ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
+![Transformers](https://img.shields.io/badge/Library-Transformers-informational?style=flat&logo=hugging-face&logoColor=white&color=FFD500)
+![LangChain](https://img.shields.io/badge/Library-LangChain-informational?style=flat&logo=langchain&logoColor=white&color=3498DB)
+![LlamaIndex](https://img.shields.io/badge/Library-LlamaIndex-informational?style=flat&logo=llamaindex&logoColor=white&color=E91E63)
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=000000)
 ![Git](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![VSCode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
