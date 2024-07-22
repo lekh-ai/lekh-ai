@@ -39,7 +39,7 @@ I'm a passionate for Gen-AI and AI-ML enthusiast. I'm always eager to learn new 
 
 
 ## Contact Me 📫
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/lekhshisodiya/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lekhshisodiya/)
 - Mail: [lekhsisodiya@gmail.com](mailto:lekhsisodiya@gmail.com)
 
 
