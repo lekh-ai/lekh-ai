@@ -2,7 +2,7 @@
 
 🎉 Welcome to my GitHub profile! 🎉
 
-I'm a passionate for Gen-AI and AI-ML enthusiast. I'm always eager to learn new technologies and contribute to exciting projects.
+I'm passionate for Gen-AI and AI-ML enthusiast. I'm always eager to learn new technologies and contribute to exciting projects.
 
 ## About Me 📚
 - 🚀 I'm currently working with cutting-edge LLM and RAG technologies
