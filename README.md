@@ -41,6 +41,7 @@ I'm passionate for Gen-AI and AI-ML enthusiast. I'm always eager to learn new te
 ![IBM Watson](https://img.shields.io/badge/AI-IBM_Watson-informational?style=flat&logo=ibm&logoColor=white&color=1F70C1)
 ![Vertex AI](https://img.shields.io/badge/Platform-Vertex_AI-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4)
 ![Colab](https://img.shields.io/badge/Platform-Google_Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F9AB00)
+![Docker Icon](https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png)
 
 
 ## Contact Me 📫
