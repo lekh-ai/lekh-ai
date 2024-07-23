@@ -54,7 +54,3 @@ I'm passionate for Gen-AI and AI-ML enthusiast. I'm always eager to learn new te
 - **Sports:** I love playing basketball and watching soccer.
 - **Travel:** I have a goal to visit all 7 continents.
 
-## My Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lekh-ai&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lekh-ai&layout=compact&theme=radical)
